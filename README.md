@@ -28,4 +28,4 @@
     * **head** - head element is a container for metadata. All information about the webpage.
     * **meta charset="utf-8"** - utf-8 is one of the encoding methods created to be able to display and work with characters/words from other languages such as Mandarin, Arabic.
     
-  ![alt text](img/commit.png)
+  ![alt text](https://raw.githubusercontent.com/mohamedshabarek/boilerProject/htmlBoilerPlate/img/commit.PNG)
