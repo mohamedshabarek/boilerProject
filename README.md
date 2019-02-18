@@ -24,8 +24,8 @@
     
   * ## Boilerplate index.html ##
     * **<!doctype html>** - HTML5 doctype declaration 
-    * **<html class="no-js" lang="">** - 
-    * **<head>** - 
+    * **<html class="no-js" lang="">** - html is the beginning of the html document, class is a created attribute to group items by class name. The "no-js" class can be used to specify custom styles when javascript is disabled. lang is the language that you're writing the code in.
+    * **<head>** - head element is a container for metadata.
     
     # Timeline
     
