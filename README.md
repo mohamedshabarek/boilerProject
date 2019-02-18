@@ -25,15 +25,6 @@
   * ## Boilerplate index.html ##
     * **<!doctype html>** - HTML5 doctype declaration 
     * **<html class="no-js" lang="">** - html is the beginning of the html document, class is a created attribute to group items by class name. The "no-js" class can be used to specify custom styles when javascript is disabled. lang is the language that you're writing the code in.
-    * **<head>** - head element is a container for metadata.
+    * **<head>** - head element is a container for metadata. All information about the webpage.
+    * **<meta charset="utf-8">** - utf-8 is one of the encoding methods created to be able to display and work with characters/words from other languages such as Mandarin, Arabic.
     
-    # Timeline
-    
-    **1937**: Alan Turing develops a theoretical computer
-    **1967**: ARPANET, the basis of Internet, is developed
-    **1969**: The first use of Internet: ARPANET connects four major U.S. universities for research and education
-    **1988**: The virus Internet Worm shuts down 10% of servers
-    **1972**: Network email is introduced, and the symbol @ is used to separate the sender and the network
-    **1982**: The word Internet is used
-    **1994**: W3C, the main organization for WWW, is founded
-    **1998**: ICANN, an organization that coordinates and maintains databases
