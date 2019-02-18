@@ -1,6 +1,6 @@
 # BoilerPlate
  
-  * ## Boilerplate src file ##
+  * ## Boilerplate src folder ##
     * **doc** - contains documentations
     * **img** - contains gitignore
     * **js** - contains javaScript files
