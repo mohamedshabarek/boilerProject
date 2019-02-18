@@ -23,6 +23,8 @@
     
     
   * ## Boilerplate index.html ##
-    * **<!doctype html>** - 
+    * **<!doctype html>** - HTML5 doctype declaration 
     * **<html class="no-js" lang="">** - 
     * **<head>** - 
+
+
