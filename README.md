@@ -44,4 +44,4 @@
     * **script src="js/main.js"** - location of your main javascript file
     * **window.ga** - adds analytics.js to your site. Activates google analytics tracking by inserting ga.js into the page.
     
-  ![alt text](https://raw.githubusercontent.com/mohamedshabarek/boilerProject/htmlBoilerPlate/img/commit.PNG)
+
