@@ -2,6 +2,7 @@
 
 * You can create a **branch** whenever you want to start a new feature of a project.
   * **Branch** - A branch is essentially different versions of the project. The best way is to make each branch a feature or a task. You are branching out from the original code base.
+  
 ![picture alt](https://raw.githubusercontent.com/mohamedshabarek/boilerProject/jasonGitTutorial1/img/newbranch.PNG)
 
 * Then when you're ready to combine the work you did with the work of others you can **pull** the other person's work into your branch.
