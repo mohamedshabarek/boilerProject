@@ -16,10 +16,10 @@
 
 ![picture alt](img/remotebranches.png)
 
-* If the branch is remote you can use **fetch** instead of pull.
-  * **Fetch** - downloads commits, files, and refs from a remote repository into your local repository. Safer than using pull.
+* If the branch is remote you can use **fetch** instead of pull and then later merge.
+  * **Fetch** - downloads commits, files, and refs from a remote repository into your local repository. It basically brings my local copy of the remote repository up to date.
 
-* When you pull/fetch the work from another branch you will in turn have a **merge conflict**.
+* When you pull the work from another branch you will in turn have a **merge conflict**.
   * **Merge Conflict** - A merge conflict is when you're trying to merge two branches that have competing commits and git needs you to decide the final changes to the merge.
 
 * Once you resolve that merge conflict, then you will officially **merge** the work from the branch that you pulled into your current branch.
