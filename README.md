@@ -8,11 +8,13 @@
 * Then when you're ready to combine the work you did with the work of others you can **pull** the other person's work into your branch.
   * **Pull** -  you are grabbing the code from a certain branch and inserting it to the branch you are currently on.
   
-  ![picture alt](img/pull.png)
+ ![picture alt](img/pull.png)
 
 
 * The branch that you pull from can either be from your own local branch or a **remote branch**.
   * **Remote** - A remote is a common repository that all team members use to exchange their changes. It is usually stored on a code hosting service such as GitHub. Different than a local branch because a only the local user can see the local branches. 
+
+![picture alt](img/remotebranches.png)
 
 * If the branch is remote you can use **fetch** instead of pull.
   * **Fetch** - downloads commits, files, and refs from a remote repository into your local repository. Safer than using pull.
