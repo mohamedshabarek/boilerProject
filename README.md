@@ -54,7 +54,9 @@
 * Then when you're ready to combine the work you did with the work of others you can **pull** the other person's work into your branch.
   * **Pull** -  you are grabbing the code from a certain branch and inserting it to the branch you are currently on.
   
- ![picture alt](img/pull.png)
+![picture alt](img/pull.png)
+ 
+![picture alt](img/pullchanges.png)
 
 
 * The branch that you pull from can either be from your own local branch or a **remote branch**.
@@ -68,8 +70,12 @@
 * When you pull the work from another branch you will in turn have a **merge conflict**.
   * **Merge Conflict** - A merge conflict is when you're trying to merge two branches that have competing commits and git needs you to decide the final changes to the merge.
 
+![picture alt](img/mergeconflict.png)
+
 * Once you resolve that merge conflict, then you will officially **merge** the work from the branch that you pulled into your current branch.
   * **Merge** - You are essentially taking the contents of one branch and putting it together with the contents of another branch.
+
+![picture alt](img/resolveconflict.png)
 
 * You can continuosly continue this process until you are complete with your project.
 
