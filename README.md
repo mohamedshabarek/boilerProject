@@ -76,6 +76,15 @@
     
 # How to use git tutorial
 
+# Git Tutorial
+
+- **Git** is a version control system that tracks changes in website development.
+- **GitHub** is a service that uses Git that is mostly used for coding.
+- A **Repository** is a project on GitHub where data is stored and managed.
+- When a repository is created, it can be accessed on WebStorm by **cloning** its URL.
+- When changes are done in WebStorm, the user **commits** the changes, adding a comment for task, feature, or fix.
+- After committing, the user **pushes** the branch to GitHub, where other contributors can access it by pulling.
+
 * You can create a **branch** whenever you want to start a new feature of a project.
   * **Branch** - A branch is essentially different versions of the project. The best way is to make each branch a feature or a task. You are branching out from the original code base.
   
