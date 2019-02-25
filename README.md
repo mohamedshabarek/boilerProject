@@ -1,3 +1,33 @@
+# Timeline
+
+- **1937**: Alan Turing develops a theoretical computer
+- **1957**: Russia puts Sputnik into orbit
+- **1958**: President Eisenhower creates APRANET
+- **1958**: NASA opens for business via Eisenhower executive order
+- **1961**: Ecma was created to standardize European computer systems
+- **1961**: Leonard Kleinrock of MIT – First paper on packet switching theory.
+- **1962**: J.C.R. Licklider of MIT – memos on “Galactic Network Concept”
+- **1967**: ARPANET, the basis of Internet, is developed
+- **1969**: The first use of Internet: ARPANET connects four major U.S. universities for research and education
+- **1969**: Larry Roberts – heads project that connects first two ARPANET sites – UCLA and Stanford 
+- **1972**: Bob Kahn – demonstrates ARPANET at the International Computer Communication
+- **1972**: Ray Tomlinson – First basic email program using “@”
+- **1974**: Vinton Cerf & Ray Kahn - A Protocol for Packet Network Interconnection
+- **1978**: TCP and IP split
+- **1980**: Tim Berners-Lee – writes predecessor to WWW
+- **1983**: Ethernet was introduced and standardized.
+- **1983**: Jon Postel, Paul Mockapedis, and Craig Partridge design the Domain Name System (DNS)
+- **1988**: The virus Internet Worm shuts down 10% of servers
+- **1972**: Network email is introduced, and the symbol @ is used to separate the sender and the network
+- **1982**: The word Internet is used
+- **1990**: Tim Berners-Lee creates World Wide Web
+- **1993**: Marc Andreesen – Develops Mosaic web browser
+- **1994**: W3C, the main organization for WWW, is founded
+- **1994**: Web browser Netscape was released.
+- **1996**: Microsoft vs Netscape - Browser wars
+- **1998**: ICANN, an organization that coordinates and maintains databases
+- **1998**: Google search engine is created.
+
 # BoilerPlate
  
   * ## Boilerplate src folder ##
